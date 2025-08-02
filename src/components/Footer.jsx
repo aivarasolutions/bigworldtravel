@@ -11,7 +11,7 @@ const Footer = () => {
                 <span className="text-white font-bold">BW</span>
               </div>
               <div>
-                <span className="font-bold">Big World Travel</span>
+                <span className="font-bold">Big World Enterprises</span>
                 <span className="text-sm text-gray-400 block">LLC</span>
               </div>
             </div>
