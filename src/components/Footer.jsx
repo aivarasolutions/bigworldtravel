@@ -11,12 +11,12 @@ const Footer = () => {
                 <span className="text-white font-bold">BW</span>
               </div>
               <div>
-                <span className="font-bold">Big World Enterprises</span>
+                <span className="font-bold">Big World Travel</span>
                 <span className="text-sm text-gray-400 block">LLC</span>
               </div>
             </div>
             <p className="text-gray-400 text-sm">
-              Enterprise travel technology solutions for the modern B2B travel industry. 
+              Travel technology solutions for the modern B2B travel industry. 
               Connecting the world through innovative platforms and wholesale brokerage.
             </p>
           </div>
@@ -46,7 +46,7 @@ const Footer = () => {
           <div>
             <h3 className="font-semibold mb-4">Contact Info</h3>
             <div className="space-y-2 text-sm text-gray-400">
-              <p>info@bigworldenterprises.com</p>
+              <p>info@bigworldtravel.club</p>
               <p>+1 (555) 123-4567</p>
               <p>Global Operations Center</p>
             </div>
@@ -54,7 +54,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-sm text-gray-400">
-          <p>&copy; 2025 Big World Enterprises LLC. All rights reserved.</p>
+          <p>&copy; 2025 Big World Travel LLC. All rights reserved.</p>
         </div>
       </div>
     </footer>
