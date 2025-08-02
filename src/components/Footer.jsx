@@ -46,7 +46,7 @@ const Footer = () => {
           <div>
             <h3 className="font-semibold mb-4">Contact Info</h3>
             <div className="space-y-2 text-sm text-gray-400">
-              <p>info@bigworldtravel.club</p>
+              <p>info@bigworldtravelco.com</p>
               <p>+1 (555) 123-4567</p>
               <p>Global Operations Center</p>
             </div>
@@ -54,7 +54,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-sm text-gray-400">
-          <p>&copy; 2025 Big World Travel LLC. All rights reserved.</p>
+          <p>&copy; 2025 Big World Enterprises LLC. All rights reserved.</p>
         </div>
       </div>
     </footer>
