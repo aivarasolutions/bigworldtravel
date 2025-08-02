@@ -8,11 +8,11 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h1 className="text-4xl lg:text-6xl font-bold mb-6">
-              Enterprise Travel Technology That 
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-teal-400"> Scales Your Business</span>
+              Big World Travel Club 
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-teal-400"> Expands Your Travel Experience </span>
             </h1>
             <p className="text-xl lg:text-2xl text-gray-200 mb-8 max-w-4xl mx-auto">
-              Big World Enterprises LLC delivers white-label booking platforms, wholesale travel inventory, 
+              Big World Travel LLC delivers white-label booking platforms, wholesale travel inventory, 
               and B2B solutions for the modern travel industry.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -118,7 +118,7 @@ const Home = () => {
             Ready to Transform Your Travel Business?
           </h2>
           <p className="text-xl text-gray-200 max-w-3xl mx-auto mb-8">
-            Join the future of travel technology with Big World Enterprises LLC. 
+            Join the future of travel technology with Big World Travel LLC. 
             Let's discuss how we can help scale your business with our comprehensive solutions.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
