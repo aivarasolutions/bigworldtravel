@@ -10,7 +10,7 @@ const Header = () => {
               <span className="text-white font-bold text-lg">BW</span>
             </div>
             <div>
-              <span className="text-xl font-bold text-gray-900">Big World Enterprises</span>
+              <span className="text-xl font-bold text-gray-900">Big World Travel</span>
               <span className="text-sm text-gray-500 block">LLC</span>
             </div>
           </Link>
